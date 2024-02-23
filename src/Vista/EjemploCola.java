@@ -17,10 +17,10 @@ public class EjemploCola {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+       /* 
         Cola<Personas> colap = new Cola<>();
         
-        colap.encolar(new Personas("Kevin", "revinfonsgo"));
+        colap.encolar(new Personas("789", "978"));
         colap.encolar(new Personas("Sofia", "fevweinfongresgo"));
         colap.encolar(new Personas("Hector", "Kevinfongrsgo"));
         
@@ -35,6 +35,8 @@ public class EjemploCola {
                System.out.println("Cola vacia");
            }
         }
+*/
     }
+    
     
 }
